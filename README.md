@@ -16,11 +16,15 @@ Curious? See the full project here (*link your project README).
  
 
 ### 🛠 Tech Stack:
-Languages: Python, Java, C++
-Data Science: Pandas, NumPy, scikit-learn, TensorFlow
-Web Dev: HTML, CSS, JavaScript (basic), Node.js
+Languages: Python, Java, C++, 
+
+Data Science: Pandas, NumPy, scikit-learn, Pytorch
+
+Web Dev: JavaScript (basic)
+
 Tools: Jupyter Notebooks, Google Colab, Git, GitHub
-Databases: SQL, MySQL
+
+Databases: 
  
 
 ### 🚀 Projects:
@@ -38,6 +42,7 @@ Learnings: Frontend development, data visualization, API integration
 
 ### 📫 How to Reach Me:
 Email: mahashanwazsyeda@gmail.com
+
 LinkedIn: www.linkedin.com/in/maha-shanawaz-syeda
  
 
