@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Maha!
-**🎓 Junior at University of Texas at Dallas, studying Computer Science**
-
+**🎓 Junior at University of Texas at Dallas, studying Computer Science**          
 **🔭 Aspiring AI/ML engineer**
 
 I love tackling real-world problems through data analysis and predictive modeling. I’m big on continuously learning and building my skills, and believe taking initiative is key to growth. (Ask me about growing my technical skills and leadership as a Break Through Tech FellowLinks to an external site.!) Currently, I'm focusing on building machine learning models and diving deeper into data science. I’m looking to leverage and grow my skills in an internship where I can contribute to exciting projects and learn from industry professionals- got any leads? Let me know!
@@ -16,13 +15,10 @@ Curious? See the full project here (*link your project README).
  
 
 ### 🛠 Tech Stack:
-Languages: Python, Java, C++, 
-
-Data Science: Pandas, NumPy, scikit-learn, Pytorch
-
-Web Dev: JavaScript (basic)
-
-Tools: Jupyter Notebooks, Google Colab, Git, GitHub
+**Languages:** Python, Java, C++      
+**Data Science:** Pandas, NumPy, scikit-learn, Pytorch       
+**Web Dev:** JavaScript (basic)      
+**Tools:** Jupyter Notebooks, Google Colab, Git, GitHub    
 
 Databases: 
  
@@ -41,8 +37,7 @@ Learnings: Frontend development, data visualization, API integration
  
 
 ### 📫 How to Reach Me:
-Email: mahashanwazsyeda@gmail.com
-
+Email: mahashanwazsyeda@gmail.com         
 LinkedIn: www.linkedin.com/in/maha-shanawaz-syeda
  
 
