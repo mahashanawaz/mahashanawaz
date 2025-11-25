@@ -1,5 +1,5 @@
-# 👋 Hi, I'm Lee!
-**🎓 Junior at Universit of Texas at Dallas, studying Computer Science**
+# 👋 Hi, I'm Maha!
+**🎓 Junior at University of Texas at Dallas, studying Computer Science**
 
 **🔭 Aspiring AI/ML engineer**
 
@@ -7,7 +7,7 @@ I love tackling real-world problems through data analysis and predictive modelin
 
  
 
-🎯 Featured Project: Sentiment Analysis for American Express (*link your project README)
+# 🎯 Featured Project: Sentiment Analysis for American Express (*link your project README)
 What We Did: Preprocessed and vectorized text data using spaCy, then built an SVM classifier to predict sentiment (positive, negative, or neutral)
 Tools: Python, spaCy, scikit-learn
 Result: 85% accuracy, , outperforming the baseline by 20%, and provided insights that helped guide data-driven improvements in customer service.
