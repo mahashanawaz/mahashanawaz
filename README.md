@@ -8,10 +8,10 @@ I love tackling real-world problems through data analysis and predictive modelin
 ---
 
 ### 🎯 Featured Project: Synthetic-to-Real Object Detection Benchmark
-- **What We Did:** Preprocessed and vectorized text data using spaCy, then built an SVM classifier to predict sentiment (positive, negative, or neutral)
-- **Tech stack:** Python, scikit-learn, Ultralytics YOLO, Google Colab, CSV/JSON for data handling, PIL (image processing), tqdm (progress tracking)
-- **Result:** 85% accuracy, , outperforming the baseline by 20%, and provided insights that helped guide data-driven improvements in customer service.
-
+- **What We Did:** Boosted YOLO11n by +0.30 mAP@50 (3× target) using synthetic + real data, audited 10%+ noisy annotations, ran hyperparameter & augmentation experiments, and collected 200+ real-world test images—reducing synthetic-to-real domain gap and producing a high-quality, consistent dataset.
+- **Tech stack:** Python, scikit-learn, Ultralytics YOLO, Google Colab, CSV/JSON (data handling), PIL (image processing), tqdm (progress tracking)
+- **Key learnings:** Combining synthetic + real data improves generalization, annotation quality impacts performance, structured experiments enhance robustness
+                        
 👀 Curious? See the full project here (https://github.com/mashcodes10/yrikka-1A).                
 
 
