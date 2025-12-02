@@ -29,11 +29,11 @@ I love tackling real-world problems through data analysis and predictive modelin
 
 ### 🚀 Projects: 
 A few other noteworthy projects I’ve worked on:        
-1.  #### [World Happiness Regression](*https://github.com/mahashanawaz/world-happiness-regression)
+1.  #### [World Happiness Regression](https://github.com/mahashanawaz/world-happiness-regression)
 - Developed a recommendation engine using collaborative filtering to suggest movies based on user preferences.              
 - **Tech Stack:** Python, Flask, scikit-learn                
 - **Learnings:** Building recommendation systems and deploying applications                    
-2.  #### [T-Emotions: T-Mobile Customer Happiness Index](*https://github.com/mahashanawaz/tmobile-happiness-index)               
+2.  #### [T-Emotions: T-Mobile Customer Happiness Index](https://github.com/mahashanawaz/tmobile-happiness-index)               
 - A web app to track and visualize LeetCode problem-solving progress.                   
 - **Tech Stack:** React, Firebase, Chart.js                   
 - **Learnings:** Frontend development, data visualization, API integration                         
