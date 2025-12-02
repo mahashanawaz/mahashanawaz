@@ -3,14 +3,13 @@
 **🎓 Junior at University of Texas at Dallas, studying Computer Science**          
 **🔭 Aspiring AI/ML engineer**
 
-I love tackling real-world problems through data analysis and predictive modeling. I’m big on continuously learning and building my skills, and believe taking initiative is key to growth. (Ask me about growing my technical skills and leadership as a Break Through Tech FellowLinks to an external site.!) Currently, I'm focusing on building machine learning models and diving deeper into data science. I’m looking to leverage and grow my skills in an internship where I can contribute to exciting projects and learn from industry professionals- got any leads? Let me know!   
+I love tackling real-world problems through data analysis and predictive modeling. I’m big on continuously learning and building my skills, and believe taking initiative is key to growth. (Ask me about growing my technical skills and leadership as a [Break Through Tech Fellow](https://www.breakthroughtech.org/) !) Currently, I'm focusing on building machine learning models and diving deeper into data science. I’m looking to leverage and grow my skills in an internship where I can contribute to exciting projects and learn from industry professionals- got any leads? Let me know!   
 
 ---
 
-### 🎯 Featured Project: [Synthetic-to-Real Object Detection Benchmark](https://github.com/mashcodes10/yrikka-1A)
+### 🎯 Featured Project: Synthetic-to-Real Object Detection Benchmark
 - **What We Did:** Preprocessed and vectorized text data using spaCy, then built an SVM classifier to predict sentiment (positive, negative, or neutral)
-- **Tech stack:** Python, scikit-learn, Ultralytics YOLO, Google Colab, CSV/JSON for data handling, PIL (image processing), tqdm (progress tracking), 
-- **Tools:**      
+- **Tech stack:** Python, scikit-learn, Ultralytics YOLO, Google Colab, CSV/JSON for data handling, PIL (image processing), tqdm (progress tracking)
 - **Result:** 85% accuracy, , outperforming the baseline by 20%, and provided insights that helped guide data-driven improvements in customer service.
 
 👀 Curious? See the full project here (https://github.com/mashcodes10/yrikka-1A).                
