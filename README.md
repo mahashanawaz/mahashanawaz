@@ -7,9 +7,10 @@ I love tackling real-world problems through data analysis and predictive modelin
 
 ---
 
-### 🎯 Featured Project: [Sentiment Analysis for American Express](https://github.com/mashcodes10/yrikka-1A)
-- **What We Did:** Preprocessed and vectorized text data using spaCy, then built an SVM classifier to predict sentiment (positive, negative, or neutral)    
-- **Tools:** Python, spaCy, scikit-learn      
+### 🎯 Featured Project: [Synthetic-to-Real Object Detection Benchmark](https://github.com/mashcodes10/yrikka-1A)
+- **What We Did:** Preprocessed and vectorized text data using spaCy, then built an SVM classifier to predict sentiment (positive, negative, or neutral)
+- **Tech stack:** Python, scikit-learn, Ultralytics YOLO, Google Colab, CSV/JSON for data handling, PIL (image processing), tqdm (progress tracking), 
+- **Tools:**      
 - **Result:** 85% accuracy, , outperforming the baseline by 20%, and provided insights that helped guide data-driven improvements in customer service.
 
 👀 Curious? See the full project here (https://github.com/mashcodes10/yrikka-1A).                
@@ -30,13 +31,13 @@ I love tackling real-world problems through data analysis and predictive modelin
 ### 🚀 Projects: 
 A few other noteworthy projects I’ve worked on:        
 1.  #### [World Happiness Regression](https://github.com/mahashanawaz/world-happiness-regression)
-  A machine learning project leveraging regression and ensemble models to predict national happiness and reveal the key socio-economic drivers     behind it.
-  - **Tech Stack:** Python, Pandas, NumPy, scikit-learn, Jupyter Notebook              
-  - **Learnings:** Ensemble modeling, feature engineering, hyperparameter tuning, interpreting model outputs                    
+    A machine learning project leveraging regression and ensemble models to predict national happiness and reveal the key socio-economic drives behind it.
+    - **Tech Stack:** Python, Pandas, NumPy, scikit-learn, Jupyter Notebook              
+    - **Learnings:** Ensemble modeling, feature engineering, hyperparameter tuning, interpreting model outputs                    
 2.  #### [T-Emotions: T-Mobile Customer Happiness Index](https://github.com/mahashanawaz/tmobile-happiness-index)
     An AI-powered sentiment analysis system that converts T-Mobile feedback into real-time insights using automated NLP and an interactive Streamlit dashboard.     
-  - **Tech Stack:** Python, Pandas, NumPy, scikit-learn, TextBlob, Streamlit, PRAW (Reddit API)                  
-  - **Learnings:** NLP preprocessing, sentiment modeling, deploying dashboards, automating data pipelines, extracting customer insights                         
+    - **Tech Stack:** Python, Pandas, NumPy, scikit-learn, TextBlob, Streamlit, PRAW (Reddit API)                  
+    - **Learnings:** NLP preprocessing, sentiment modeling, deploying dashboards, automating data pipelines, extracting customer insights                         
  
 
 -----------
